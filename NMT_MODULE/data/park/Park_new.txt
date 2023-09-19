@@ -1,0 +1,10 @@
+/home/mj/Desktop/mydata/Park_new/04_001.wav|이번시간에는 선형회귀 알고리즘을 수학적으로 이해해보도록 하겠습니다.
+/home/mj/Desktop/mydata/Park_new/04_002.wav|앞서, 살펴본 바와 같이, 선형회귀 모델은 선입니다. 
+/home/mj/Desktop/mydata/Park_new/04_003.wav|그리고 이 선은 직선의 방정식으로 표현할 수가 있구요. 
+/home/mj/Desktop/mydata/Park_new/04_004.wav|예를 들면, y는 ax 더하기 b, 이런 식으로 표현할 수 있죠.
+/home/mj/Desktop/mydata/Park_new/04_005.wav|여기서 A가 기울기, B가 y 절편이 되는 거죠.
+/home/mj/Desktop/mydata/Park_new/04_006.wav|자 근데 지금부터는 로테이션을 이렇게 가져가겠습니다.
+/home/mj/Desktop/mydata/Park_new/04_007.wav|y 절편을 theta zero 라고 표현하고요. 기울기는 theta one 이라고 표현하겠습니다.
+/home/mj/Desktop/mydata/Park_new/04_008.wav|이 두 파라미터가 직선의 방정식을 결정하는 것이죠.
+/home/mj/Desktop/mydata/Park_new/04_009.wav|직선은 hx 는 theta zero 더하기 theta one x로 표현하겠습니다.
+/home/mj/Desktop/mydata/Park_new/04_010.wav|그래서 theta zero가 y 절편 theta one이 기울기가 되는 것이구요.

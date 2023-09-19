@@ -1,0 +1,9 @@
+/home/caijb/Desktop/MJ/data/AI-X/1_001.wav|강의에서 Chat GPT를 어떻게 써야되는가
+/home/caijb/Desktop/MJ/data/AI-X/1_002.wav|어떻게 활용할 것인가 여기에 대한 고민도 좀 하고있는 상황인데
+/home/caijb/Desktop/MJ/data/AI-X/1_003.wav|그정도로 인공지능 열풍이 불고있다는거는 다들 동의할거 같습니다.
+/home/caijb/Desktop/MJ/data/AI-X/1_004.wav|그 인공지능의 핵심기술이 바로 머신러닝이라고 할 수 있고요.
+/home/caijb/Desktop/MJ/data/AI-X/1_005.wav|가깝게는 여러분들쓴 이메일 스팸 filtering 기능이 머신러닝 기술을 활용한 것이구요.
+/home/caijb/Desktop/MJ/data/AI-X/1_006.wav|그담에 사진에 보면 이제 얼굴 자동으로 찾아내고 누구인지까지 알아내는 이런 이제 인식기술 전부다 머신러닝 기술
+/home/caijb/Desktop/MJ/data/AI-X/1_007.wav|사진쪽으로 넘어가는게 딥러닝이라고 하는데요, 기술의 바탕이 되고있죠.
+/home/caijb/Desktop/MJ/data/AI-X/1_008.wav|그래서 아주 중요한 기술이다 라고 할 수 있습니다.
+/home/caijb/Desktop/MJ/data/AI-X/1_009.wav|머신러닝이란 무엇인가 몇가지 정의를 한번 보겠어요.

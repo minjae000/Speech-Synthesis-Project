@@ -1,0 +1,10 @@
+/home/mj/Desktop/mydata/Park_new/04_001.wav|In this class, we will try to understand the linear regression algorithm mathematically.
+/home/mj/Desktop/mydata/Park_new/04_002.wav|As mentioned earlier, as we have seen, the linear regression model is a simple line.
+/home/mj/Desktop/mydata/Park_new/04_003.wav|Moreover, this line can be conveniently represented by the equation of a straight line.
+/home/mj/Desktop/mydata/Park_new/04_004.wav|For example, y can be expressed as ax plus b, involving a linear relationship between variables.
+/home/mj/Desktop/mydata/Park_new/04_005.wav|Here, A represents the slope, and B represents the y-intercept in this mathematical equation.
+/home/mj/Desktop/mydata/Park_new/04_006.wav|Now, from this point on, we'll proceed with the rotation like this.
+/home/mj/Desktop/mydata/Park_new/04_007.wav|We will express the y-intercept as theta zero, and the slope as theta one in this mathematical representation.
+/home/mj/Desktop/mydata/Park_new/04_008.wav|These two crucial essential parameters determine the equation of the straight line.
+/home/mj/Desktop/mydata/Park_new/04_009.wav|The straight line equation will be represented as hx =(equal) theta zero +(plus) theta one x in this model.
+/home/mj/Desktop/mydata/Park_new/04_010.wav|So, theta zero is the y-intercept, and theta one is the slope.
